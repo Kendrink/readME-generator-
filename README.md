@@ -49,7 +49,8 @@ Questions.
 
 
         Here are screenshots of the apps functionality 
-        ![image](https://github.com/Kendrink/readME-generator-/assets/103896572/c99919df-7f2a-4ab6-ba71-313ef2dab4d6)
+       
+
 
 
         
