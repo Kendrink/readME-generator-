@@ -49,7 +49,10 @@ Questions.
 
 
         Here are screenshots of the apps functionality 
-       
+       <img width="1710" alt="Screenshot 2024-01-09 at 10 08 24 PM" src="https://github.com/Kendrink/readME-generator-/assets/103896572/69515cbe-ce7d-4268-b56f-f77f003274ea">
+       <img width="1710" alt="Screenshot 2024-01-09 at 10 08 34 PM" src="https://github.com/Kendrink/readME-generator-/assets/103896572/3d56626f-1769-45ed-8feb-60c64b619ceb">
+
+
 
 
 
